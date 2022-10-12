@@ -1,0 +1,75 @@
+body{
+  background-color: white;
+  color: black;
+  height: 250px;
+}
+
+
+.booklist{
+  display: grid;
+  width: 600px;
+  margin: 75px auto;
+  gap: 50px;
+  height: 550px;
+  
+}
+
+.book{
+
+  background-color: ghostwhite;
+  border-radius: 1rem;
+  padding: 1rem 1rem;
+  height: 250px;
+    
+}
+
+.book1{
+  display:inline-block;
+  vertical-align: top;
+  margin-left: 20px;
+
+}
+
+span{
+  color: black;
+  vertical-align: top;
+}
+
+.rt{
+  color: gold;
+}
+.pr{
+  color:red;
+}
+
+button{
+  background-color: beige;
+  margin-right: 50px;
+  border-color: beige;
+}
+
+img{
+  height: 250px;
+  width: 175px;
+  
+}
+
+.tt{
+  
+  color: darkblue;
+}
+div{
+  font-size: 18px;
+  margin-bottom: 18px;
+}
+
+h1{
+  text-align: center;
+  color:darkblue;
+  
+}
+.mrp{
+  text-decoration: line-through;
+}
+
+
